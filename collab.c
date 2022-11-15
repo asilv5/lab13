@@ -21,11 +21,17 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void amusay2_asilv5 (){ 
+  printf("Ahmad Musayev and Adrian Silva\n"); 
+  printf("We learned plenty useful commands for git and how to use GitHub to collaborate on projects. Personally for Ahmad the one of main struggles was installing the git on       Windows.\n"); 
+  }
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
-    
+    amusay2_asilv5();
+  
     return 0;
 }
